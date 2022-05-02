@@ -1,0 +1,7 @@
+C:\Users\Strdl\Desktop\job\с#\ClientChat\ClientChat\bin\Debug\ClientChat.dll.config
+C:\Users\Strdl\Desktop\job\с#\ClientChat\ClientChat\bin\Debug\ClientChat.dll
+C:\Users\Strdl\Desktop\job\с#\ClientChat\ClientChat\bin\Debug\ClientChat.pdb
+C:\Users\Strdl\Desktop\job\с#\ClientChat\ClientChat\obj\Debug\WCFservice.csproj.AssemblyReference.cache
+C:\Users\Strdl\Desktop\job\с#\ClientChat\ClientChat\obj\Debug\WCFservice.csproj.CoreCompileInputs.cache
+C:\Users\Strdl\Desktop\job\с#\ClientChat\ClientChat\obj\Debug\ClientChat.dll
+C:\Users\Strdl\Desktop\job\с#\ClientChat\ClientChat\obj\Debug\ClientChat.pdb
